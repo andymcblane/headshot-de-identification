@@ -4,8 +4,11 @@ De-identification of images containing a human face &amp; eye(s) by detecting a 
 The images used are from thispersondoesnotexist.com - while these images are **not** of real people, it is an easy way for me to get a lot of images with faces, eyes etc. Good enough for now. 
 
 # Todo
-* Improve glasses detection
+* Improve eyes behind glasses detection
 * Implement side-on photos
+* Implement Docker
+* Implement React front end.
+* Config file
 
 # Example - not a real person
 <img src="http://andymcblane.com/eyes/image.jpg" alt="drawing" width="200"/>
