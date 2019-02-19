@@ -15,7 +15,7 @@ The images used are from thispersondoesnotexist.com - while these images are **n
 
 <img src="http://andymcblane.com/eyes/image_eyes.jpg" alt="drawing" width="200"/>
 
-Example where no eyes are detected . <br>
+Example where eyes are not correctly detected . <br>
 <img src="http://andymcblane.com/eyes/image_no_eyes.jpg" alt="drawing" width="200"/>
 
 
